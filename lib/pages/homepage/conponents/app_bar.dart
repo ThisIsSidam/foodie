@@ -64,7 +64,7 @@ class CustomSliverAppBar  extends StatelessWidget {
                 child: getBanner(),
               )
             ),
-            SizedBox(height: 10)
+            const SizedBox(height: 10)
           ],
         )
       )
